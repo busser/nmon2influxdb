@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/adejoux/influxdbclient"
+	"github.com/busser/influxdbclient"
 	"github.com/busser/nmon2influxdb/nmon2influxdblib"
 	"github.com/codegangsta/cli"
 )

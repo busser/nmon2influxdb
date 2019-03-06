@@ -12,7 +12,7 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"github.com/adejoux/influxdbclient"
+	"github.com/busser/influxdbclient"
 	"github.com/codegangsta/cli"
 	"github.com/naoina/toml"
 )
